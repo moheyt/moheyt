@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/moheyt/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/moheyt/"><img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/moheytneygi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a> 
 </p> 
 
