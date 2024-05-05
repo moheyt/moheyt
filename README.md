@@ -20,10 +20,10 @@
 
 - Hello folks, I'm a Frontend Developer 🚀 and Master of Computer Application (MCA) at Graphic Era University, Dehradun.
 - I'm passionate about coding ⚡, web design, and development.
-- Currently learning React.js.
+- Currently learning React.js⚛️.
 - I'm skilled in C++ and love working with JavaScript.
 - I'm keen on collaborating with like-minded individuals who are passionate about developer tools.
-- Eager to collaborate on meaningful projects that create a real difference 💞️
+- Excited to team up on impactful projects that make a real difference ✨
 - Reach me at 📫 mohitnegi237@gmail.com / [Other🔗](https://linktr.ee/moheyt)
 
 </div>
