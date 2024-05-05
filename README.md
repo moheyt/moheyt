@@ -24,7 +24,7 @@
 - I'm skilled in C++ and love working with JavaScript.
 - I'm keen on collaborating with like-minded individuals who are passionate about developer tools.
 - Excited to team up on impactful projects that make a real difference ✨.
-- Reach me at 📫 <span style="text-decoration:none> mohitnegi237@gmail.com / [Other🔗](https://linktr.ee/moheyt).</span>
+- Reach me at 📫 <span style="text-decoration:none"> mohitnegi237@gmail.com / [Other🔗](https://linktr.ee/moheyt).</span>
 
 </div>
 </div>
