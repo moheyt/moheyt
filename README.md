@@ -4,7 +4,7 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/moheyt/"><img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/moheytneygi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a> 
+    <a href="https://twitter.com/moheytneygi"><img height="30" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-256.png"></a> 
 </p> 
 
 <div align="center">
